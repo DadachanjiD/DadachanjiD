@@ -1,1 +1,3 @@
-Do not develop my app
+DO NOT
+DEVELOP
+MY APP
